@@ -1,7 +1,7 @@
 ![Logo](docs/images/LOGO.jpg)
 
 
-# 👋 ¡Bienvenidos al repositorio de la Unidad Curricular: PROGRAMACI&#243;N! 
+# 👋 ¡Bienvenidos al repositorio de la Unidad Curricular: PROGRAMACI&#211;N! 
 
 Espacio colaborativo para los proyectos acad&#233;micos 🎓 de **UPTAMCA/Programaci&#243;n**
 
@@ -39,7 +39,7 @@ Sigue estos pasos para comenzar a trabajar en tu proyecto:
 
 ### 1. Ubica tu Repositorio
 
-Tu repositorio se llama con el siguiente formato: `[A&#241;o]-T[N&#250;meroTrayecto][N&#250;meroDeSecci&#243;n]-G[N&#250;meroDeGrupo]` .
+Tu repositorio se llama con el siguiente formato: `[Año]-T[NúmeroTrayecto][NúmeroDeSección]-G[NúmeroDeGrupo]` .
 
 - Ejemplo: `2025-T101-G01`
 
@@ -85,7 +85,7 @@ Cuando termines una tarea y tu c&#243;digo est&#233; listo, sigue este flujo:
 |:-------------------------|:----------------|:-------------:|
 | Pol&#237;tica de Git          | Reglas de nombramiento de ramas y commits.                            | [Reglas de Nombramiento](docs/Convention.md)      |
 | Tutorial de GitHub       | Si eres nuevo, esta gu&#237;a te ayudar&#225; con el entorno.                   | [Tutorial B&#225;sico](https://docs.github.com/es/get-started) |
-| Pr&#225;cticas                | Canal de Youtube 🎥                                                   | [Pr&#225;cticas](www.youtube.com/@cgedler) |
+| Pr&#225;cticas                | Canal de Youtube 🎥                                                   | [Pr&#225;cticas](https://youtube.com/@cgedler?si=FhasL4qemrSQ5nj0) |
 
 ## 🌟 Recuerda: 
 
@@ -100,4 +100,4 @@ Si tienes alg&#250;n problema con el acceso, permisos o la estructura de la orga
 
 - **Horario de Oficina:** de lunes a viernes, de 9:00 a 18:00
 
-#### &#250;ltima Actualizaci&#243;n: [Fecha de Hoy]
+#### &#250;ltima Actualizaci&#243;n: 16-11-2025
